@@ -11,11 +11,11 @@ function returnstring($firstString = 'Hello You', $secondString = 'Little Bastar
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=, initial-scale=1.0" />
-    <title>Exercice 2 Partie 4</title>
+    <title>Exercice 3 Partie 4</title>
 </head>
 
 <body>
-    <h1>Exercice 2 Partie 4</h1>
+    <h1>Exercice 3 Partie 4</h1>
     <p><?php
         echo returnstring();
     ?></p>
